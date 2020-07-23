@@ -4,3 +4,5 @@
 1.    https://pixycam.com/downloads-pixy1/
 2.    https://pixycam.com/downloads-pixy2/
 
+![circuit diagram]("https://github.com/bsai-krishna/Object-tracking-using-Arduino-uno/blob/master/CircuitDigram.jpg")
+
